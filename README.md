@@ -1,2 +1,3 @@
 # yo-stolnikov-nikita
-Учебный репозиторий студента Стольникова Никиты 1 модуль
+Стольников Никита (https://t.me/StolnikovNikita)
+Ян Олимов (https://t.me/OlimvJan)
